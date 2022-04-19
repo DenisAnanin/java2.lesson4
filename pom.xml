@@ -92,7 +92,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ru.gb.java2.lesson4.java2lesson4/ru.gb.java2.lesson4.java2lesson4.HelloApplication
+                                ru.gb.java2.lesson4.java2lesson4/ru.gb.java2.lesson4.java2lesson4.TestChat
                             </mainClass>
                         </configuration>
                     </execution>
